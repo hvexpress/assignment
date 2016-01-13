@@ -132,6 +132,29 @@ nav.navbar.navbar-default {
 /*end of nav*/
 
 
+/* Main Body Content */
+
+#main-body-content {
+  background-color: #fff;
+  width:100%;
+  padding: 22px 32px 44px 32px;
+}
+
+#main-body-content h1 {
+  font-size: 46px;
+  font-weight: 700;
+}
+
+#main-body-content ul {
+  font-size: 17px;
+}
+
+#smiling {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 
 
 

@@ -42,6 +42,15 @@ body {
 
 #social-logos {
   text-align: right;
+
+}
+
+#social-logos .fa-facebook-official {
+  color:#fff;
+} 
+
+#social-logos .fa-twitter {
+  color:#fff;
 }
 
 /*End of Top Banner */
@@ -138,25 +147,70 @@ nav.navbar.navbar-default {
   background-color: #fff;
   width:100%;
   padding: 22px 32px 44px 32px;
+  font-size: 17px;
 }
 
 #main-body-content h1 {
   font-size: 46px;
   font-weight: 700;
+  color: #144a80;
+  margin-bottom: 2.2rem;
 }
 
 #main-body-content ul {
-  font-size: 17px;
+  margin-bottom: 2.2rem;
 }
 
 #smiling {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  border-radius: 5px;
+  margin-bottom: 2.2rem;
 }
 
+#main-body-content p {
+  font-size: 20px;
+  font-weight: 125;
+  width:95%;
+  background-color: #144a80;
+  color:#fff;
+  border-radius: 5px;
+  margin-bottom: 2.2rem;
 
+}
 
+#main-body-content h5 {
+  font-weight: 700;
+  font-size: 17px;
+  color: #144a80;
+
+  margin-bottom: 2.2rem;
+}
+
+#caregiver {
+  border-radius: 5px;
+  margin-bottom: 2.2rem;
+}
+
+#vop {
+  background-color: #144a80;
+  color:#fff;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#main-body-content .side-btn {
+  background-color: #144a80;
+  color:#fff;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width:100%;
+  margin-top: 3px;
+  margin-bottom: 3px;
+}
 
 
 
